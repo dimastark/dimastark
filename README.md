@@ -20,11 +20,11 @@
   <a target="_blank" href="mailto:dvstark@yandex.ru">
     <img src="./assets/mail.svg" alt="mail" height="30"/>
   </a>
-  <a target="_blank" href="https://github.com/dimastark">
-    <img src="./assets/github.svg" alt="github" height="30"/>
-  </a>
   <a target="_blank" href="https://www.linkedin.com/in/dimastark">
     <img src="./assets/linkedin.svg" alt="linkedin" height="30"/>
+  </a>
+  <a target="_blank" href="https://github.com/dimastark">
+    <img src="./assets/github.svg" alt="github" height="30"/>
   </a>
   <a target="_blank" href="https://t.me/dimastark">
     <img src="./assets/telegram.svg" alt="telegram" height="30"/>
